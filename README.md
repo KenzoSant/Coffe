@@ -1,4 +1,4 @@
-# ☕: Site Responsivo Coffee 
+# ☕ Site Responsivo Coffee 
 
 ##  Site Coffee 
 - Desenvolvido em HTML, CSS e JavaScript.
