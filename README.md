@@ -3,5 +3,5 @@
 ##  Site Coffee 
 - Desenvolvido em HTML, CSS e JavaScript.
 - Animações com o mouse.
-- Compatível com vários dispositivos móveis.
+- Responsivo.
 - Interface de usuário simples e agradável.
